@@ -6,4 +6,4 @@ Também aprendemos como enviar nosso projeto para o **GitHub**.
 
 E agora já sabemos qual é a funcionalidade do arquivo README.md
 
-Data da aula: *25/08/2025* ;)
+Data da aula: *25/08/2025* ;) 
